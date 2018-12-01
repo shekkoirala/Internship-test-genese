@@ -1,4 +1,4 @@
-1. iterated over all the fibonacci values below 4000000 
+1. iterated over all the fibonacci values below 4000000.
 2. do a if value % 2 == 0: total += value. 
 3. (The % is the remainder on division operator.)
 4. if the remainder when dividing by 2 equals 0 then the number is even.
